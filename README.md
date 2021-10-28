@@ -1,6 +1,6 @@
 # gonoka
 
-A new Flutter project.
+A new Flutter project for my first 2 week.
 
 ## Getting Started
 
